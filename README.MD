@@ -1,9 +1,10 @@
 ## Hi 👋, I'm Shubham Raj 
 
-### A passionate Full Stack Java Developer from India 🇮🇳
 <p align="center">
-  <img src="java-developer-banner.png" width="180" style="border-radius:50%;" />
+  <img src="java-developer-banner.png" width="100%" />
 </p>
+
+### A passionate Full Stack Java Developer from India 🇮🇳
 
 - 🔭 I’m currently working at [Sentrex Consultancy](https://www.linkedin.com/company/sentrex-consultancy/posts/?feedView=all)
 - 🌱 I’m currently learning **Spring Boot & React**
